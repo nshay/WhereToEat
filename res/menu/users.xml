@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:id="@+id/add_user" 
+        android:title="@string/add_new"
+        android:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/mainButton"
+        android:title="@string/app_name" />
+    
+    <item
+        android:id="@+id/restaurantsButton"
+        android:title="@string/restaurants" />
+
+</menu>
