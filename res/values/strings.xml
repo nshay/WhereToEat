@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhereToEat</string>
+    <string name="action_settings">Settings</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="users">Users</string>
+    <string name="wte_content_desc">Select Users to Dine With</string>
+    <string name="add_new">Add New</string>
+    <string name="select_diners">Select Diners</string>
+    <string name="button_add">Add+</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="dialog_new_rest_title">New Restaurant</string>
+    <string name="dialog_enter_rest_message">Enter Restaurant Name</string>
+    <string name="dialog_new_user_title">New User</string>
+    <string name="dialog_enter_user_message">Enter User Name</string>
+    
+</resources>
